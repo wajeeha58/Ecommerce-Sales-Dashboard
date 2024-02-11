@@ -1,5 +1,7 @@
 # Ecommerce-Sales-Dashboard
 
+![Screenshot](https://github.com/wajeeha58/Ecommerce-Sales-Dashboard/assets/131583709/eb140148-3f12-43f4-a62e-af696c773ee5)
+
 
 ## Problem Statement
 The e-commerce industry faces the challenge of understanding and optimizing various aspects of the sales process. This dataset aims to address this challenge by providing a detailed record of e-commerce transactions, enabling data-driven decision-making to enhance customer experience, streamline operations, and maximize profitability.
